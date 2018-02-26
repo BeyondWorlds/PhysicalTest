@@ -1,0 +1,12 @@
+<!--pages/test/test.wxml-->
+
+<text>pages/test/test.wxml</text>
+<view>
+<radio-group class="rg" >
+<radio>从不</radio>
+<radio>很少</radio>
+<radio>有时</radio>
+<radio>经常</radio>
+<radio>总是</radio>
+</radio-group>
+</view>

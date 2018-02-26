@@ -1,0 +1,9 @@
+<view class="container">
+  <view class="content">{{message}}</view>
+  <button hover-class='btn_pressed' class="btn_sel" bindtap='add'>{{count}}</button>
+  <button class="btn_sel" bindtap='selNever'>{{btnDatas[0]}}</button>
+  <button class="btn_sel" bindtap='selSeldom'>{{btnDatas[1]}}</button>
+  <button class="btn_sel" bindtap='selSometime'>{{btnDatas[2]}}</button>
+  <button class="btn_sel" bindtap='selOften'>{{btnDatas[3]}}</button>
+  <button class="btn_sel" bindtap='selAlways'>{{btnDatas[4]}}</button>
+</view>

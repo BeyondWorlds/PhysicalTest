@@ -1,0 +1,14 @@
+/* pages/test/test.wxss */
+
+page {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  font-family: -apple-system-font, 'Helvetica Neue', Helvetica, 'Microsoft YaHei', sans-serif;
+}
+
+.rg {
+  display: flex;
+  flex-direction: column;
+}
